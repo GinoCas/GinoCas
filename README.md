@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web Dev<br>🎯 Goals: Make a lot of money so I can travel to other countries.<br>🎲 Fun fact: I started programming as a game-dev.</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web Services<br>🎯 Goals: Make a lot of money so I can travel to other countries.<br>🎲 Fun fact: I started programming as a game-dev.</p>
 
 ###
 
