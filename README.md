@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gino, I'm 18 years old, I'm trying to get better.<br>I'm from Argentina</p>
+<p align="left">My name is Gino, I'm 20 years old, I'm trying to get better.<br>I'm from Argentina</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web Services<br>🎯 Goals: Make a lot of money so I can travel to other countries.<br>🎲 Fun fact: I started programming as a game-dev.</p>
+  <p align="left">✨ Creating bugs since 2020<br>📚 I'm studying Digital Technology.<br>🎯 Goals: I want to keep improving myself and learn a lot of things 🔥.<br>🎲 Fun fact: I started programming as a game-dev.</p>
 
 ###
 
